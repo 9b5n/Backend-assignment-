@@ -2,7 +2,6 @@
 
 
 ### ASSIGNMENT 4.2
-<img width="920" height="602" alt="Screenshot 2026-08-17 at 10 05 51 PM" src="https://github.com/user-attachments/assets/525763a4-bef3-43d7-9521-aa1088d7c0ad" />
 
 ### ASSIGNMENT 4.3
 <img width="1470" height="956" alt="Screenshot 2026-08-17 at 10 06 46 PM" src="https://github.com/user-attachments/assets/1db09fd2-edc2-41a6-9e78-ea45a2ea1d93" />
