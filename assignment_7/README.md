@@ -41,8 +41,8 @@ The `GET /search` route reads optional `name` and `course` values from `req.quer
 With both query parameters:
 
 ```text
-GET /search?name=Shubh&course=Node.js
-Name: Shubh
+GET /search?name=Ahtisham&course=Node.js
+Name: Ahtisham
 Course: Node.js
 ```
 
@@ -60,9 +60,9 @@ The route also handles requests containing only `name` or only `course`.
 The `GET /student/:id` route combines a route parameter with query parameters.
 
 ```text
-GET /student/101?name=Shubh&course=Backend
+GET /student/101?name=Ahtisham&course=Backend
 Student ID: 101
-Name: Shubh
+Name: Ahtisham
 Course: Backend
 ```
 

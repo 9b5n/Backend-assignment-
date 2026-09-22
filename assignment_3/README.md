@@ -17,7 +17,7 @@ This assignment demonstrates basic file management operations using Node.js's bu
 The program initially writes:
 
 ```text
-Name: Shubh Saraswat
+Name: Ahtisham
 Course: Backend Development
 Technology: Node.js
 ```
@@ -52,7 +52,7 @@ node index.js
 File created successfully
 
 --- Student Details ---
-Name: Shubh Saraswat
+Name: Ahtisham
 Course: Backend Development
 Technology: Node.js
 

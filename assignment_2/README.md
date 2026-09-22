@@ -29,7 +29,7 @@ The `assignment2.js` file:
 The page displays:
 
 ```text
-Name: Shubh Saraswat
+Name: Ahtisham
 Course: BTech in Computer Science
 College: ITM College
 ```
@@ -72,7 +72,7 @@ The browser displays:
 ```text
 Student Portal
 
-Name: Shubh Saraswat
+Name: Ahtisham
 Course: BTech in Computer Science
 College: ITM College
 

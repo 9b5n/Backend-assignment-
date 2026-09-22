@@ -8,7 +8,7 @@ const server = http.createServer((req, res) => {
         res.writeHead(200, { 'Content-Type': 'application/json' });
         const studentData = {
             id: 101,
-            name: "Shubh Saraswat",
+            name: "Ahtisham",
             course: "Btech AIML",
             semester: 3,
             city: "Mumbai"
